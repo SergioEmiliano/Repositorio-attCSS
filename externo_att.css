@@ -1,0 +1,15 @@
+.div1{
+    width: 450px; height:200px; background-color: #f908a1;
+}
+.div2{
+    width: 100px; height:350px; background-color: #308210;
+}
+p{
+    font-family: serif; font-style: italic; background-color: #3f0b83; font-size:30px;color: rgb(240, 11, 11)
+}
+div3{
+    width: 70%; height: 65vh; background-color: rgb(112, 215, 239);
+}
+div4{
+    width: 55vw; height: 70%; background-color: #a4f32f;
+}
